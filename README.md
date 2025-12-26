@@ -7,8 +7,7 @@
 ## Build
  - ### Choose a configuration
  - ### Order parts (more to come)
- - ### Assembly
- - ### Firmware installation
+ - ### Assembly and Firmware Installation
  - ### Case
 
 ## Finish
@@ -122,13 +121,22 @@ Here are some helpful resources for building and configuring your Meshtastic nod
 - **[Meshtastic Designer](https://meshtastic-designer.rakwireless.com/)** – A helpful online tool to assist you in designing and configuring your custom Meshtastic node, including selecting hardware and settings.
 
 ### Order parts
+Choose your configuration from before and make sure to order a battery, power switch, screws, or any accessories you need. Keep in mind, if you have access to the makerspace and the e-shop, most of these compontents are available to purchase. They are also available in the SPARC lab (see below). You will likely have to make a power harness, so make sure the battery polarity is correct before you plug it in. <br> 
 Join student projects and research committee ([SPARC](http://sparc.eng.auburn.edu/)) to get projects like this fully funded!
 *Makerspace collab?
 ### Assembly
-### Firmware installation
-### Case
-## Finish
+Make sure to check your device for specific assembly guides, then before plugging everything in, please read this guide and follow it VERY CLOSELY. Do NOT power on your microcontroller without the antenna plugged in, or you risk frying it.
+ - [Getting Started](https://meshtastic.org/docs/getting-started/)
 
+The web flasher is heavily recommended (Use a chromium based browser), otherwise if you're comfortable with flashing microcontrollers you can use the CLI tool.
+### Case
+We have a community-built case for the wiisblock meshtastic starter kit, and there are also several available on printables. If you don't know how to use a CAD software, I recommend downloading someone else's file and just focusing on printing for now. There are a ton of pre-made mesh cases that look great and are highly customizeable. I highly recommend learning to use Bambu Studio/Prusa Slicer and learning to use the self-service station in the makerspace (After completing required trainings). Otherwise, you can always put in a print request for the prototype shop, or shoot someone in the SPARC lab a message and we can get it printed for you.
+## Finish
+Here's an overview of the app. You can get it on flatpak, google play, or apple's app store. You can see the node discovery tab, where it shows details about every node you make contact with, including model, battery power, signal strength, satellites contacted, and how recent they were contacted. On the conversations tab, there's the general LongFast chat which is pretty active on Christmas in the Huntsville area (lots of nodes here). On the map you can see just how many are in North AL and a growing number in birmingham. You can change your node name in settings as well.
+<img width="1080" height="2177" alt="Screenshot_20251225-220638_1" src="https://github.com/user-attachments/assets/e2a8bfdd-8a08-4c0f-906a-36b5db98a0ef" />
+<img width="1080" height="2424" alt="Screenshot_20251225-220609" src="https://github.com/user-attachments/assets/7baf5a7e-6fc5-42ea-9f0e-1a3ea84599e9" />
+<img width="1080" height="2203" alt="Screenshot_20251225-220534_1" src="https://github.com/user-attachments/assets/c5301803-c47d-48bc-8fab-f305b6b75ca6" />
+<img width="1080" height="2167" alt="Screenshot_20251225-220516_1" src="https://github.com/user-attachments/assets/1c851df6-a3ce-436b-beda-08740e145289" />
 
 ### App overview/tips
 
@@ -140,12 +148,13 @@ Please share your builds to the discord to be posted here, and feel free to reac
  - [ALMesh Discord](https://discord.gg/ws7EfK8u) <br>
  - [Birmingham Discord]( https://discord.gg/BuTd2Kad3K) <br>
  - [Georgia Discord](https://discord.gg/AFmn6rKtDg) <br>
+ - [Meshtastic Reddit](https://www.reddit.com/r/meshtastic/) <br>
+ - [Jeff Geerling on Youtube](https://www.youtube.com/watch?v=1_lbvqCQnMY)
 ### Into cyber security?
  - [DC256](https://DC256.org)
  - [DC205](https://www.dc205.org/)
 
 
-### Project Hub
-
-### Project Hub
-
+### Project Hub  
+This is my personal node built 10-01-2025.
+![PXL_20251001_184140442](https://github.com/user-attachments/assets/b510d343-c675-4101-a1ec-36681779b355)
