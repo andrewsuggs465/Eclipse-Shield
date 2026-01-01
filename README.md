@@ -191,9 +191,14 @@ Share your builds on Discord and reach out with questions:
 
 This is my personal node, built **10-01-2025**.
 
-![PXL_20251001_184140442](https://github.com/user-attachments/assets/b510d343-c675-4101-a1ec-36681779b355)
+![PXL_20251001_184140442](https://github.com/user-attachments/assets/b510d343-c675-4101-a1ec-36681779b355)  
+---
 
-spectralstrider
-![IMG6432854799839528368](https://github.com/user-attachments/assets/89cfc164-8c33-4e62-8246-bc4d5bc38b9b)
-kealpy
-![PXL_20251202_002340046](https://github.com/user-attachments/assets/7551989e-ee80-47f9-a24d-384c92b04e76)
+spectralstrider  
+
+![IMG6432854799839528368](https://github.com/user-attachments/assets/89cfc164-8c33-4e62-8246-bc4d5bc38b9b)  
+---
+kealpy  
+
+![PXL_20251202_002340046](https://github.com/user-attachments/assets/7551989e-ee80-47f9-a24d-384c92b04e76)  
+---
